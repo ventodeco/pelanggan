@@ -1,5 +1,5 @@
 Tentang Aplikasi :
-Aplikasi Pelanggan ini dibuat untuk memudahkan pelanggan suatu restoran memesan makanan beserta biaya yang harus dibayarkan secara langsung. Dan hasil pemesanan pelanggan dapat dilihat di fusion table, dan gambar di aplikasi ini di simpan di firebase.
+Aplikasi Pelanggan ini dibuat untuk memudahkan pelanggan suatu restoran memesan makanan beserta biaya yang harus dibayarkan secara langsung. Dan hasil pemesanan pelanggan dapat dilihat di fusion table, dan gambar di aplikasi ini di simpan di firebase. Aplikasi ini menggunakan api firebase dan fusion table.
 
 How to Run and Build :
 Saya membuat aplikasi ini dengan thunkable classic online yang mengandalkan logika untuk membuatnya. Dan file yang dihasilkan adalah .aia
